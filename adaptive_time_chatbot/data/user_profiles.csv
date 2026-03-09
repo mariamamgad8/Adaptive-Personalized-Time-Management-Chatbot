@@ -1,0 +1,6 @@
+user_id,sleep_time,wake_time,morning_energy,afternoon_energy,evening_energy,exercise_preference,study_preference
+1,1,6,4,2,5,morning,evening
+2,23,9,3,4,3,evening,afternoon
+3,1,7,3,4,3,morning,afternoon
+4,24,6,5,5,4,evening,evening
+5,1,7,4,2,2,evening,afternoon
