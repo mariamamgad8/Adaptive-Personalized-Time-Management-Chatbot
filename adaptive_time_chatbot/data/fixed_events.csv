@@ -1,6 +1,0 @@
-event_id,user_id,event_name,day,start_hour,end_hour
-1,1,University Class,Monday,10,12
-2,1,Signals Lab,Wednesday,14,16
-3,1,Gym,Tuesday,18,19
-4,2,University Class,Tuesday,9,11
-5,2,Project Meeting,Thursday,16,18
